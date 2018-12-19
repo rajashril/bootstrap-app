@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+.carousel-item img {
+    width: 100%;
+}
+.dark-modal .modal-content {
+    background-color: #292b2c;
+    color: white;
+}
+.dark-modal .close {
+    color: white;
+}
+.modal-backdrop.light-blue-backdrop {
+    background-color: #5cb3fd;
+}
+select.custom-select {
+    margin: 0.5rem 0.5rem 0 0;
+    width: auto;
+}
